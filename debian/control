@@ -1,0 +1,26 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: poweroff-passwordless
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 8), faketime, git
+Homepage: https://github.com/Whonix/poweroff-passwordless
+Vcs-Browser: https://github.com/Whonix/poweroff-passwordless
+Vcs-Git: https://github.com/Whonix/poweroff-passwordless.git
+Standards-Version: 3.9.4
+
+Package: poweroff-passwordless
+Architecture: all
+Depends: sudo, ${misc:Depends}
+Description: Allow powering off machine in console without requiring root password
+ Allow powering off or reboot by typing "sudo poweroff" or "sudo reboot".
+ .
+ This is useful in context of graphical desktop environments (which allow to
+ reboot / power off without a password anyway as well as in virtual machines
+ (where password protection for the desktop makes much more sense to be applied
+ on the host).
+ .
+ Implemented by providing a /etc/sudoers.d/poweroff-passwordless snippet.
