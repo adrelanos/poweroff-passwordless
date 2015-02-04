@@ -1,3 +1,9 @@
+poweroff-passwordless (3:0.7-1) unstable; urgency=low
+
+  * New upstream version.
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Wed, 04 Feb 2015 00:52:07 +0000
+
 poweroff-passwordless (3:0.6-1) unstable; urgency=low
 
   * New upstream version.
