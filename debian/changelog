@@ -1,3 +1,9 @@
+poweroff-passwordless (3:0.9-1) unstable; urgency=low
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Tue, 07 Apr 2015 17:42:11 +0000
+
 poweroff-passwordless (3:0.8-1) unstable; urgency=low
 
   * New upstream version (local package).
