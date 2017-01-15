@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 9), faketime, genmkfile
 Homepage: https://github.com/Whonix/poweroff-passwordless
 Vcs-Browser: https://github.com/Whonix/poweroff-passwordless
 Vcs-Git: https://github.com/Whonix/poweroff-passwordless.git
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 
 Package: poweroff-passwordless
 Architecture: all
