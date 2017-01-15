@@ -1,3 +1,21 @@
+commit 0d4999bf54b7876b2c194bd0333fe3c5855fe381
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 15 13:00:43 2017 +0000
+
+    fix lintian warning
+
+commit 8cc7155f2d76902b2af124bb7a19a38035c59c39
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 15 08:35:38 2017 +0100
+
+    packaging, bumped Standards-Version from 3.9.6 to 3.9.8 for jessie support
+
+commit 9aac1e965983faf835da1107386511f481bafc75
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Dec 10 02:23:45 2016 +0000
+
+    bumped changelog version
+
 commit 00b0f2890ea3f8fe4969083f9bb30bf3e6630ec5
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Nov 21 17:42:24 2016 +0000
