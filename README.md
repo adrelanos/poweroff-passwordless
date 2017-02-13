@@ -2,7 +2,7 @@
 
 Allow powering off or reboot by typing "sudo poweroff" or "sudo reboot".
 
-This is useful in context of graphical desktop environments (which allow to
+This is useful in context of graphical desktop environments (which allow
 reboot / power off without a password anyway as well as in virtual machines
 (where password protection for the desktop makes much more sense to be applied
 on the host).
